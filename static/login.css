@@ -1,0 +1,57 @@
+#boton{   
+ margin-left: 65%;
+}
+#boton:hover{
+    background-color: green;
+    cursor: pointer;
+    transform: translateY(2px);
+}
+#input-icon{
+        color: #191919;
+        position: absolute;
+        width: 20px;
+        height: 20px;
+        left: 12px;
+        top: 50%;
+        transform: translateY(-50%);  
+        margin-left: 90%;   
+}
+#input-icon2{
+        color: #191919;
+        position: absolute;
+        width: 20px;
+        height: 20px;
+        left: 1px;
+        bottom: 28%;
+        margin-left: 80%;   
+}
+
+#input-wrapper {
+    position: relative;
+    width: 271px;
+ }
+ .title{    
+    text-align: center;
+    font-family: 'Yeon Sung', cursive;
+
+    /* color: aliceblue; */
+ }
+ .form-group{
+    padding: 10px;
+ }
+ #election{
+    text-align: left;
+ }
+ #Boton-form{
+    font-size: 15px;
+ }
+ #boton-form-2{
+    padding: 15px;
+    background-color: rgba(209, 209, 204, 0.151);
+}
+#Boton-form:hover{
+    background-color:  green;       
+}
+#alertt{
+   padding: 20px;
+}
