@@ -1,7 +1,7 @@
 # Test-imanku
 
 ### PASOS PARA INICIAR EL PROYECTO: <br><br>
-1.Importe la bd en su equipo local.<br><br>
+1.Importe la bd en su equipo local con mysql.<br><br>
 2.Ejecute el main.py <br><br>
 3.Utilice las credenciales para ingresar en el login: <br>
 ```
